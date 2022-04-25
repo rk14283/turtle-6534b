@@ -41,7 +41,7 @@ sections:
         altText: ''
         url: 'https://github.com/rk14283'
         showIcon: true
-        icon: arrowRight
+        icon: github
         iconPosition: right
         elementId: ''
       - type: Link
