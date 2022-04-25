@@ -37,7 +37,6 @@ sections:
         iconPosition: right
         elementId: ''
       - type: Link
-        label: Learn more
         altText: ''
         url: 'https://github.com/rk14283'
         showIcon: true
