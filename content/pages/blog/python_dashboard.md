@@ -15,7 +15,7 @@ featuredImage:
   altText: Post Image
 media:
   type: ImageBlock
-  url: /images/hero.webp
+  url: /images/CO2_emission.png
   altText: Post Image
 bottomSections:
   - elementId: ''
