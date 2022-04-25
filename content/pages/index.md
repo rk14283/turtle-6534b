@@ -29,13 +29,6 @@ sections:
         icon: arrowRight
         style: primary
         url: /
-      - type: Link
-        altText: ''
-        url: /
-        showIcon: true
-        icon: linkedin
-        iconPosition: right
-        elementId: ''
     media:
       type: ImageBlock
       url: /images/albatros.jpg
