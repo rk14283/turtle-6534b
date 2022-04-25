@@ -29,6 +29,14 @@ sections:
         icon: arrowRight
         style: primary
         url: /
+      - type: Link
+        label: Learn more
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
     media:
       type: ImageBlock
       url: /images/albatros.jpg
