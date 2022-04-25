@@ -20,7 +20,7 @@ sections:
     elementId: ''
     backgroundSize: full
     title: Welcome to my portfolio website
-    subtitle: Data Science. Programming. Biology.
+    subtitle: Data Science. Learning. Nerd.
     text: 'We’re local, seasonal fisherman, supporting fishing restrictions.'
     actions:
       - type: Button
