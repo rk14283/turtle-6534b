@@ -34,7 +34,7 @@ sections:
         altText: ''
         url: 'https://www.linkedin.com/in/rohan-kale-1428a18b/'
         showIcon: false
-        icon: arrowRight
+        icon: linkedin
         iconPosition: right
         elementId: ''
     media:
