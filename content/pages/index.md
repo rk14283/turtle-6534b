@@ -34,7 +34,7 @@ sections:
         altText: ''
         url: /
         showIcon: true
-        icon: arrowRight
+        icon: linkedin
         iconPosition: right
         elementId: ''
     media:
