@@ -76,7 +76,7 @@ sections:
       actions:
         justifyContent: flex-start
   - type: QuoteSection
-    colors: colors-d
+    colors: colors-e
     quote: >-
       “It’s great to see someone taking action while still maintaining a
       sustainable fish supply to home cooks.”
