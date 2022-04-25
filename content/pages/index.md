@@ -77,9 +77,8 @@ sections:
         justifyContent: flex-start
   - type: QuoteSection
     colors: colors-c
-    quote: >-
-      “It’s great to see someone taking action while still maintaining a
-      sustainable fish supply to home cooks.”
+    quote: |
+      "Data is the new gold"
     name: Isabelle Parks
     title: Head chef at Parks
     styles:
