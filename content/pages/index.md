@@ -33,7 +33,7 @@ sections:
         label: Learn more
         altText: ''
         url: 'https://www.linkedin.com/in/rohan-kale-1428a18b/'
-        showIcon: false
+        showIcon: true
         icon: linkedin
         iconPosition: left
         elementId: ''
