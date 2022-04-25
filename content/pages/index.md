@@ -24,7 +24,7 @@ sections:
     text: 'We’re local, seasonal fisherman, supporting fishing restrictions.'
     actions:
       - type: Button
-        label: Join adventure
+        label: Projects
         showIcon: true
         icon: arrowRight
         style: primary
