@@ -3,7 +3,7 @@ layout: PostLayout
 metaTitle: null
 addTitleSuffix: true
 metaTags: []
-title: Sunset fishnet
+title: Video game sales
 colors: colors-d
 date: '2021-12-02'
 excerpt: >-
