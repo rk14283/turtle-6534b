@@ -30,7 +30,7 @@ sections:
         style: primary
         url: /
       - type: Link
-        label: Learn more
+        label: 'https://www.linkedin.com/feed/'
         altText: ''
         url: /
         showIcon: false
