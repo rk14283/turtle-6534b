@@ -15,7 +15,7 @@ featuredImage:
   altText: Post Image
 media:
   type: ImageBlock
-  url: /images/CO2_emission.png
+  url: /images/CO2_emission-df866747.png
   altText: Post Image
 bottomSections:
   - elementId: ''
