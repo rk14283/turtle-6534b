@@ -40,7 +40,7 @@ sections:
         label: Learn more
         altText: ''
         url: 'https://github.com/rk14283'
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         elementId: ''
