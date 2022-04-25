@@ -3,7 +3,7 @@ layout: PostLayout
 metaTitle: null
 addTitleSuffix: true
 metaTags: []
-title: Video game sales
+title: CO2 emissions
 colors: colors-d
 date: '2021-12-02'
 excerpt: >-
