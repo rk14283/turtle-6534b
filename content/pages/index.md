@@ -32,7 +32,7 @@ sections:
       - type: Link
         label: Learn more
         altText: ''
-        url: /
+        url: 'https://www.linkedin.com/in/rohan-kale-1428a18b/'
         showIcon: false
         icon: arrowRight
         iconPosition: right
